@@ -24,7 +24,7 @@
 [![OpenGL](https://img.shields.io/badge/OpenGL-3D_Visualization-000000?logo=opengl)](https://github.com/thytranx/datalens)
 
 **C++/OpenGL** engine for 10GB+ datasets  
-✓ GPU-accelerated rendering ✓ Cross-format support ✓ Dynamic filtering
+✓ GPU-accelerated rendering ✓ AI-powered data analysis ✓ Cross-format support ✓ Dynamic filtering
 
 ### [RAGReads](https://github.com/thytranx/ragreads)
 [![Neo4j](https://img.shields.io/badge/Neo4j-Graph_DB-000000?logo=neo4j)](https://github.com/thytranx/ragreads)
@@ -32,10 +32,6 @@
 **AI-powered** book recommender system  
 ✓ 90% accuracy ✓ GPT-4 integration ✓ Snowflake analytics
 
----
-
-## 📜 Latest Achievements
-- 🏆 **DXC Enterprise Scholarship** - 2023
 
 ---
 
