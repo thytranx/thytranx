@@ -7,11 +7,12 @@
 ## 🛠️ Core Technologies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge&color=000000">
   <img src="https://img.shields.io/badge/Python-00599C?logo=python&logoColor=white&style=for-the-badge&color=000000">
   <img src="https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white&style=for-the-badge&color=000000">
   <img src="https://img.shields.io/badge/Snowflake-00599C?logo=snowflake&logoColor=white&style=for-the-badge&color=000000">
+   <img src="https://img.shields.io/badge/NLP-00599C?logo=nlp&logoColor=white&style=for-the-badge&color=000000">
    <p align="center">
+      <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge&color=000000">
      <img src="https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white&style=for-the-badge&color=000000">
       <img src="https://img.shields.io/badge/CUDA-5586A4?logo=cuda&logoColor=white&style=for-the-badge&color=000000">
       <img src="https://img.shields.io/badge/GLSL-5586A4?logo=glsl&logoColor=white&style=for-the-badge&color=000000">
