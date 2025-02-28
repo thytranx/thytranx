@@ -1,7 +1,9 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Thy Tran 
 **`3D Data Visualization & Software Engineer`**
 <div align="center">
-   <img src="https://data.undp.org/sites/g/files/zskgke476/files/2023-10/Artboard%2021.png"  width="100%">
+   <!img src="https://data.undp.org/sites/g/files/zskgke476/files/2023-10/Artboard%2021.png"  width="100%">
+
+   <img src="https://drive.usercontent.google.com/download?id=1ZW8j-MugOzgLsSTNdTmtgqP4ClzvxdE_&export=view&authuser=0"  width="100%">
 </div>
 
 ## 🛠️ Core Technologies
